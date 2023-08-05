@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Hey, I'm Paran0idy!
+  Hi, I'm a graduate student at the University of Science and Technology of China.
 </h1>
+
+- 🔭 I'm currently interning at Intel.
+- 🌱 I’m currently learning Program Analysis and MLSys.
+- ❓ Ask me about anything related to PL
 
 <!-- 
 <p align="center">
@@ -31,39 +35,20 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<p align="center">
-    <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
-    •
-    <b><a href="https://github.com/golang/go">Gopher</a></b>
-    •
-    <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
-    •
-    <b><a href="https://paran0idy.github.io">Blogs</a></b>
-    <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
-    <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
-</p>
+
 
 <p align="center">
-    <a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/> </a>
-    <a href="https://golang.org/"> <img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </a>
-    <a href="https://elixir-lang.org/"> <img src="https://img.shields.io/badge/elixir-9a3ea8?style=for-the-badge&logo=elixir&logoColor=white"/> </a>
-<!--     <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> -->
-<!--     <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> -->
-<!--     <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> </a> -->
-<!--     <a href="https://www.haskell.org/">  <img src="https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /> </a> -->
-    <a href="https://crystal-lang.org/"> <img src="https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"/> </a>
-<!--     <a href="https://www.ruby-lang.org/"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /> </a> -->
-</p>
-
-<p align="center">
-    <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
-    <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
-    <a href=""> <img src="https://img.shields.io/badge/win10-%23008080.svg?&style=for-the-badge&logo=windows&logoColor=white"/> </a>
-    <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
+    <a href="https://mlir.llvm.org/"> <img src="https://img.shields.io/badge/MLIR-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white"/> </a>
+    <a href="https://llvm.org/"> <img src="https://img.shields.io/badge/LLVM-262D3A.svg?&style=for-the-badge&logo=llvm&logoColor=white"/> </a>
+    <a href="https://ocaml.org/"> <img src="https://img.shields.io/badge/OCaml-C25978?style=for-the-badge&logo=ocaml&logoColor=white"/>  </a>
+    <a href="https://www.linux.org/"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
+    <a href="https://riscv.org/"> <img src="https://img.shields.io/badge/RISC--V-326DE6?style=for-the-badge&logo=risc-v&logoColor=white"/> </a>
+    <a href="https://tvm.apache.org/"> <img src="https://img.shields.io/badge/Apache%20TVM-D22128?style=for-the-badge&logo=apache&logoColor=white"/> </a>
+    <a href="https://pytorch.org/"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a>
 </p>
 
 <div align="center">
-  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
+  <img src="https://octodex.github.com/images/justicetocat.jpg" width="500" height="500">
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
 </div>
