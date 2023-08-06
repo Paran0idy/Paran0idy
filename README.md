@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🌠[Coding Time](https://wakatime.com/@Younger)
+## 🌠 Coding Time
 > the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=Paran0idy&theme=calm&show_icons=true) -->
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Paran0idy&column=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Paran0idy&column=10"/>
 
 <!-- 
 [![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
