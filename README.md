@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   Hi, I'm a graduate student at the University of Science and Technology of China.
 </h1>
 
-- 🔭 I'm currently interning at Intel.
-- 🌱 I’m currently learning Program Analysis and MLSys.
-- ❓ Ask me about anything related to PL
+- 🔭 I'm currently interning at ByteDance.
+- 🌱 I’m currently learning DL Compiler and Arch.
+- ❓ Ask me about anything related to Compiler.
 
 <!-- 
 <p align="center">
