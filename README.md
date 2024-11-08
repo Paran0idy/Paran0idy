@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   Hi, I'm a graduate student at the University of Science and Technology of China.
 </h1>
 
-- 🔭 I'm currently interning at ByteDance.
-- 🌱 I’m currently learning DL Compiler and Arch.
-- ❓ Ask me about anything related to Compiler.
+- 🔭 Interning at Quantitative Trading Company.
+- 🌱 Focusing on DL Compiler, Computer Arch and LLM Inference.
+- ❓  Ask me about anything related to Compiler/Arch.
 
 <!-- 
 <p align="center">
