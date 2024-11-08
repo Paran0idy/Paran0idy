@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Hi, I'm a graduate student at the University of Science and Technology of China.
 </h1>
 
-- 🔭 Interning at Quantitative Trading Company.
+- 🔭 Interning at MSRA HEX Group (Planning).
 - 🌱 Focusing on DL Compiler, Computer Arch and LLM Inference.
 - ❓  Ask me about anything related to Compiler/Arch.
 
