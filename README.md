@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   Hi, I'm a graduate student at the University of Science and Technology of China.
 </h1>
 
-- 🔭 Interning at MSRA HEX Group.
+- ⚡ Working at [ByteDance Seed Foundation](https://team.doubao.com/en/direction/foundation) Group soon.
+- 🔭 Interning at [MSRA HEX](https://www.microsoft.com/en-us/research/group/heterogeneous-extreme-computing/?msockid=347d16d711cc67893392039110b066b3) Group for low-bits & sparse LLM Inference.
 - 🌱 Focusing on DL Compiler, Computer Arch and LLM Inference.
-- ❓  Ask me about anything related to Compiler/Arch.
 
 <!-- 
 <p align="center">
